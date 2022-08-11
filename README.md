@@ -1,6 +1,6 @@
 # log-in
 
-it is a file about log in to a system.
-the form had username and password.
+It is a file about log in to a system.
+The form had username and password.
 
-background is an image that i uploaded it.
+Background is an image that i uploaded it.
